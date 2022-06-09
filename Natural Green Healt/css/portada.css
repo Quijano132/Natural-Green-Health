@@ -1,0 +1,42 @@
+nav
+{
+    padding-top: 10px;
+    border: 5px;
+    border-radius: 5px;
+    border-bottom: 3px solid black;
+    border-top: 3px solid black;
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+    text-align: center;
+    background-color: aliceblue;
+}
+
+.roberto
+{
+    padding: 10px;
+    border: 5px;
+    border-radius: 5px;
+    border-bottom: 3px solid black;
+    border-top: 3px solid black;
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+    
+    background-color: aliceblue;
+}
+#datos
+{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+img
+{
+    text-align: right;
+    height: 100px;
+    width: 100px;
+}
+div
+{
+    width: 30px;
+    height: 30px;
+
+}
